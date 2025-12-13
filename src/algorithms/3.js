@@ -15,6 +15,7 @@ const getAllPairs = (numbers) => {
       pairs.push([numbers[i], numbers[j]]);
     }
   }
+  // console.log(pairs);
   return pairs;
 };
 

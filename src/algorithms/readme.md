@@ -33,3 +33,20 @@ Example: A box filled with items, we know exactly where each item is located. Te
 
 O(n^2): Algorithm execution time grows quadratically with the size of input data.
 Example: a box of items, the goal is comparing each item with every other item to find specific pairs. as the number of items (n) increases, the number of computations (n^2) grows much faster.
+
+O(log n): Algorithm running time grows logarithmically with the size of the input (represented by n). In simpler terms, as the input size increases, the time it takes for the algorithm to run, increases slowly.
+
+Arrays:
+An ordered collection of elements that can be accessed using a numerical index.
+Introduction
+Custom Arrays
+Challenges
+
+- Reverse String
+- Palindromes
+- Integer Reversal
+- Sentence Capitalization
+- FizzBuzz
+- MaxProfit
+- Array Chunk
+- Two Sum
